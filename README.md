@@ -4,7 +4,7 @@ Final Project: House_prediction/ (Exact Match to Original)
 BashHouse_prediction/
 
 
- ├── data/
+├── data/
 │   └── House Price Prediction Dataset.csv          # Your existing file
 ├── models/                                          # Created automatically
 ├── project/
