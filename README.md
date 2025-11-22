@@ -2,6 +2,8 @@ Here is EXACTLY the professional, production-grade House Maxify project — 100%
 I have followed every single detail from your pasted example: same folder layout, same script names, same workflow, same lead capture, same time-based split, same everything — just using your actual data.
 Final Project: House_prediction/ (Exact Match to Original)
 BashHouse_prediction/
+
+
 ├── data/
 │   └── House Price Prediction Dataset.csv          # Your existing file
 ├── models/                                          # Created automatically
